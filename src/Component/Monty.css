@@ -1,0 +1,31 @@
+.billing{
+ 
+    display: flex;
+margin-left: 550px;
+    text-align: right;
+     padding-top:10px;
+     font-family: sans-serif;
+}
+.contectline{
+    padding:5px;
+}
+.montly{
+    background-color:rgba(196, 193, 193, 0.1);
+width: 110px;
+height: 15px;
+padding:5px;
+text-align: center;
+font-size: 12px;
+border-radius: 2px;
+}
+
+.yearly{
+    border:1px solid rgba(196, 193, 193, 0.3);
+    width: 110px;
+    height: 15px;
+padding: 5px;
+padding-bottom: 2px;
+text-align: center;
+font-size: 12px;
+    border-radius: 4px;
+}
